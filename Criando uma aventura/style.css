@@ -1,0 +1,30 @@
+
+body {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    font-family: "Edu VIC WA NT Beginner", cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: #e6689c;
+    color: rgb(0, 0, 0);
+    font-family: "Edu VIC WA NT Beginner", cursive;
+}
+
+.passo.ativo {
+    display:block;
+}
+
+mian{
+    text-align: center;
+    max-width: 90%;
+}
+
+img {
+    max-width: 90%;
+}
